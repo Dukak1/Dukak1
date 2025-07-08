@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Melih</h1>
+
+<p align="center">
+  <img src="https://github.com/Dukak1/Dukak1/blob/main/banner.png" alt="GitHub Banner" width="100%" />
+</p>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dukak1&label=Profile%20views&color=0e75b6&style=flat" alt="dukak1" /> </p>
 
 <h3 align="left">Connect with me:</h3>
